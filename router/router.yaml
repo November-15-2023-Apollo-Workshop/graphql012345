@@ -5,7 +5,7 @@ supergraph:
   listen: 0.0.0.0:${env.PORT:-4000}
   introspection: true
 
-# For demo purposes - can remove or enable homepage
+# For demo purposes - can remove or enable homepagef
 sandbox:
   enabled: true
 homepage:
